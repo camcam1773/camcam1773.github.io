@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "My 90s Playlist on Spotify"
+date:   2021-03-12 20:00:00 +0100
+categories: blog
+---
+
+Here is my 90s playlist from Spotify. 
+
+This also serves as a test for embedding spofity playlists on jekyll.
+
+{% include spotifyPlaylist.html id="6hcrJWoKJodOlCMeUQs6jy" %}
