@@ -7,6 +7,6 @@ categories: blog
 
 Here is my 90s playlist from Spotify. 
 
-This also servers as a test for embedding spofity playlists on jekyll.
+This also serves as a test for embedding spofity playlists on jekyll.
 
 {% include spotifyPlaylist.html id="6hcrJWoKJodOlCMeUQs6jy" %}
