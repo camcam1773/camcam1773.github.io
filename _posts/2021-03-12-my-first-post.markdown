@@ -6,4 +6,4 @@ categories: blog
 ---
 Test
 
- {% youtube "https://www.youtube.com/watch?v=gp6xUta7qsw" %}
+{% include youtubePlayer.html id="gp6xUta7qsw" %}
