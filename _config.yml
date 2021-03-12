@@ -25,6 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mcansever.win" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  camcam1773
+linkedin_username: m-cansever
 
 # Build settings
 theme: minima
