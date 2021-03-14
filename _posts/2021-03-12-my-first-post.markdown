@@ -4,6 +4,6 @@ title:  "My first post"
 date:   2021-03-12 12:00:00 +0100
 categories: blog
 ---
-Test
+Youtube embed test
 
-{% include youtubePlayer.html id="gp6xUta7qsw" %}
+{% include youtubePlayer.html id="dQw4w9WgXcQ" %}
