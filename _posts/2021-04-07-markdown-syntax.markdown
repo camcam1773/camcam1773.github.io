@@ -19,7 +19,7 @@ categories: markdown syntax
 
 | Syntax | Output |
 |:-:|:-:|
-| \*\*Bold\*\* | **Bold ** |
+| \*\*Bold\*\* | **Bold** |
 | \*Italic\* | *Italic* |
 | \[NASA\](url) | [NASA](https://www.nasa.gov)  |
 | \`in-line code\` | `in-line code` |
