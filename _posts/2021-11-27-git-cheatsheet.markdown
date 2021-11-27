@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Git CLI Cheatsheet"
+categories: git syntax version_control
+---
+
+``` shell
 git init - start new repo
 git add ...files
 git commit -m "commit message"
@@ -12,3 +19,4 @@ git log --graph --oneline
 git diff
 git status
 git fetch
+```
