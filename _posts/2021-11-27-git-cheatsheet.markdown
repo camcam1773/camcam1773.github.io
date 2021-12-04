@@ -5,7 +5,7 @@ categories: git syntax version_control
 ---
 
 ``` shell
-git init - start new repo
+git init
 git add ...files
 git commit -m "commit message"
 git branch
