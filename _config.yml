@@ -30,6 +30,7 @@ linkedin_username: m-cansever
 theme: minima
 plugins:
   - jekyll-feed
+google_analytics: G-ZNSHXN7NKV
 
 # Exclude from processing.
 # The following items will not be processed, by default.
