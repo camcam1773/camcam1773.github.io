@@ -20,6 +20,7 @@ jobs:
       - name: Install Bundler
         run: |
           bundle config unset deployment
+          bundle update
           bundle install
 
       - name: Commit Changes
