@@ -1,8 +1,6 @@
 name: Update Gemfile.lock
 on:
   workflow_dispatch:
-  pull_request:
-    branches: [ "main" ]
 jobs:
   update-gemfile-lock:
     runs-on: ubuntu-latest
